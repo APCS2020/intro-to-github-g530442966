@@ -8,4 +8,5 @@ public class test24{
     public static void main(String[] args) {
         printLine(12);
     }
+    // test24 test=www
 }
